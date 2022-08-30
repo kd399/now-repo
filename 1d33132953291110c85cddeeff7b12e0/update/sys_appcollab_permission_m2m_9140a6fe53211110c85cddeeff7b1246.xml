@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_appcollab_permission_m2m">
+    <sys_appcollab_permission_m2m action="INSERT_OR_UPDATE">
+        <descriptor display_value="Custom-7f981102-a2b9-485d-8f71-a55b787df5d0">dd40a2fe53211110c85cddeeff7b1239</descriptor>
+        <permission display_value="Workflow">7f0fc262c3221200c9c85cbc5bba8f28</permission>
+        <sys_class_name>sys_appcollab_permission_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 06:11:55</sys_created_on>
+        <sys_id>9140a6fe53211110c85cddeeff7b1246</sys_id>
+        <sys_name/>
+        <sys_package display_value="abhn" source="x_abhn">1d33132953291110c85cddeeff7b12e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abhn">1d33132953291110c85cddeeff7b12e0</sys_scope>
+        <sys_update_name>sys_appcollab_permission_m2m_9140a6fe53211110c85cddeeff7b1246</sys_update_name>
+    </sys_appcollab_permission_m2m>
+</record_update>
